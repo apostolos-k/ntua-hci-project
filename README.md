@@ -41,11 +41,11 @@ A mobile application for the Human-Computer Interaction course at Ece Ntua 2022-
 ## Installation
 
 For the Google Maps functionality, enter your API key at these files:
-- `lib/models/location_service.dart` at line `8`
-- `ios/Runner/AppDelegate.swift` at line `16`
-- `android/app/src/main/AndroidManifest.xml` at line `36`
+- `lib/models/location_service.dart` at line 8
+- `ios/Runner/AppDelegate.swift` at line 16
+- `android/app/src/main/AndroidManifest.xml` at line 36
 
-For running the application on iOS devices, install all dependencies manually with below command in the `ios` folder, only if you have build errors when trying to run the application. 
+For running the application on iOS devices, install all dependencies manually with below command in the `/ios` folder, only if you have build errors when trying to run the application. 
 
 ```bash
   pod install
