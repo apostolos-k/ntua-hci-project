@@ -17,6 +17,14 @@ A mobile application for the Human-Computer Interaction course at Ece Ntua 2022-
 **Database:** [SQflite](https://pub.dev/packages/sqflite)
 
 
+## Features
+
+- `Garage` Car managment
+- `Calendar` Appointment managment
+- `Documents` Document upload from Camera and Gallery 
+- `Maps` Google Maps directions between cities
+
+
 ## Screenshots
 
 - Garage - Calendar - Add Event
@@ -27,15 +35,6 @@ A mobile application for the Human-Computer Interaction course at Ece Ntua 2022-
 - Documents - Driving License - Maps
 
 ![Screenshot-2](screenshots/screens-2.jpg)
-
-
-
-## Features
-
-- `Garage` Car managment
-- `Calendar` Appointment managment
-- `Documents` Document upload from Camera and Gallery 
-- `Maps` Google Maps directions between cities
 
 
 ## Installation
