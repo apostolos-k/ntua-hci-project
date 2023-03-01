@@ -1,6 +1,6 @@
 
 # myCar Wallet
-A mobile application for the Human-Computer Interaction course at Ece Ntua 2022-23, in which we developed a Car Wallet app for Android and iOS.
+A mobile application for the Human-Computer Interaction course at Ece Ntua 2022-23, in which we developed a Car Wallet application for Android and iOS devices.
 
 
 ## Contributors
